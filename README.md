@@ -104,5 +104,5 @@ These results show that the GCN-based approach can effectively balance risk and 
 [Shafiq Abdul Rahman,IIT Madras](https://shafiq-abdulrahman.github.io/)
 ---
 
-[Reference_1](https://tkipf.github.io/graph-convolutional-networks/)
-
+[Reference 1](https://tkipf.github.io/graph-convolutional-networks/)
+[Reference 2](https://towardsdatascience.com/graph-convolutional-networks-introduction-to-gnns-24b3f60d6c95)
