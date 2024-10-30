@@ -98,6 +98,7 @@ These results show that the GCN-based approach can effectively balance risk and 
 3. **Alternative Weighting Schemes**: Experiment with different methods to aggregate embeddings, such as using attention mechanisms to weigh specific nodes.
 4. **Compare with Other Models**: Benchmark the GCN-based approach against traditional methods, such as mean-variance portfolio optimization, to quantify the GCN’s added value.
 5. **Backtesting on Extended Periods**: Test the model across different market cycles to validate robustness and adjust it to perform well under diverse market conditions.
+6. **Distribution on Return**
 
 ### Read handwritten Notes attached in pdf format to get confused. Cheers:)
 
