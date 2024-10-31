@@ -25,6 +25,15 @@ The objective of this project is to construct an optimized portfolio of Nifty 50
 - **Spectral Clustering**:
   - Use spectral clustering on the graph’s Laplacian matrix to identify groups of similar stocks. This helps in improving diversification by preventing over-allocation to stocks with similar behaviors.
 
+
+
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*hPouqFUjF4BwzTJeJWyNvQ.png" alt="Graph Structure Example" width="400"/>
+</p>
+
+
+
+
 ### 3. Feature Compilation
 - **Feature Matrix for GCN**:
   - Combine daily returns, volatility, and RSI into a feature matrix. Each stock is represented by a vector containing these values, which serves as input for the GCN model.
